@@ -6,7 +6,6 @@
 
 ```javascript
 const ngabo = {
-  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, PHP],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern","single page application"],
