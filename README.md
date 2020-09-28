@@ -3,6 +3,7 @@
 <p><em>Self-taught youngest Software Developer </br>Memes Lover😁🤷‍♂️ 
 </em></p>
 
+[![ngaboindev's github stats](https://github-readme-stats.vercel.app/api?username=ngaboindev)](https://github.com/anuraghazra/github-readme-stats)
 
 ```javascript
 const ngabo = {
