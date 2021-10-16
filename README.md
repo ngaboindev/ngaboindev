@@ -19,3 +19,5 @@
 - A Javascript & Open Source enthusiast.
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- 😄 Fun fact: I chill harder than you party.
+- 📫 How to reach me: robbingabo9@gmail.com
