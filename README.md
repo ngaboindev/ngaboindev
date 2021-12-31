@@ -16,7 +16,7 @@
 
 
 ### I am Robert Ngabo
-- A Javascript & Open Source enthusiast.
+- Full-stack developer.
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 - 😄 Fun fact: I chill harder than you party.
