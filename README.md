@@ -13,4 +13,5 @@ Hi 👋, I'm Robert. a disciplined hard-working  software developer who seeks to
 - Nextjs
 - React Native
 - ✈ Tailwindcss
+- Typescript
 - 📗 Node.js
