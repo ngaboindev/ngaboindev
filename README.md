@@ -5,7 +5,6 @@ Hi 👋, I'm Robert. a disciplined hard-working  software developer who seeks to
 ## About Me
 - 📫 How to reach me: `robbingabo9@gmail.com`
 - 👑 Pronouns: he/him
-- ⚡ Fun fact: I chill harder than you party
 
 ## 🧰 Top Tools
 - ⚛️ React
